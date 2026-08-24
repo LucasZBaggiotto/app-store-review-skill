@@ -1,4 +1,4 @@
-# App Store Review — a Claude Code skill
+# App Store Review: a Coding agent skill
 
 An agent skill that makes Claude actually useful for getting an app past **Apple's App Store Review**.
 
